@@ -191,7 +191,7 @@ var cnItems = {
     "  Neutron ": "中子",
     "  Oxygen ": "   氧",
     "  Periodic Table ": "   元素周期表",
-    "Buy Oxygen.\n": "购买氧气。\n",
+    "Buy Oxygen.\n": "购买氧。\n",
     "neutron": "中子",
     "Neutron": "中子",
     "Neutrons (n) can be produced via binding energy. Together with electrons and protons, can be used to purchase new elements.": "中子 (n) 可以通过结合能产生。 与电子和质子一起，可用于购买新元素。",
